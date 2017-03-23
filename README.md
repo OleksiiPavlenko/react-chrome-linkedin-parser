@@ -20,7 +20,7 @@ For boilerplate i use [Chrome-Extension-Webpack-Boilerplate](https://github.com/
 ## What limitations?
 This product is not ready. It's in developming. To get information you can download that in ```.csv``` data format.
 
-In the future, i will be connect extension to database and it's a private information, i wouldn't make cmmit of this part of code. But you can feel free to change this extension as you like or create issue.
+In the future, i will be connect extension to database and it's a private information, i wouldn't make cmmit of this part of code. But you can feel free to change this extension as you like or create merge.
 
 ## How to use?
 For development you can run ```npm``` command.
